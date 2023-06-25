@@ -1,4 +1,4 @@
-# Lede Project 1: The Zombie Songs
+# Lede Project 1: Zombie Songs
 
 This repository include the data and notebooks used for the first project I've worked on as a part of the Lede program for Data Journalism from Columbia Graduate School of Journalism.
 
