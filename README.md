@@ -20,7 +20,7 @@ This is the result of my scraper.
 
 In this notebook, I cleaned and analyzed the data using the pandas library.
 
-5. (The csv for graphics)[https://github.com/juditecypreste/zombie_songs/blob/main/trending_songs_analysis.csv)
+5. [The csv for graphics](https://github.com/juditecypreste/zombie_songs/blob/main/trending_songs_analysis.csv)
 
 This is the result of my analysis.
 
