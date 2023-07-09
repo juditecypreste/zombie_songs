@@ -5,7 +5,7 @@ This repository include the data and notebooks used for the first project I've w
 # The project
 ## Zombie Songs
 The suspicious is confirmed: zombies are real. An analysis using data from the social network TikTok reveals the resurrection of forgotten songs. Among the top 100 trending songs on the platform, more than half of the list is over 2 years old. However, if you listen to an item from that list, you will likely not recognize your favorite song immediately. This is due to a new phenomenon driven by the way TikTok users consume content. Now, zombie songs make a comeback more quickly...
-[Read this story.](https://juditecypreste.com/portfolio-lede/project_1.html)
+[Read this story.](https://juditecypreste.com/portfolio-lede/project_1/project_1.html)
 
 # The files:
 1. [Getting the data](https://github.com/juditecypreste/zombie_songs/blob/main/scrapper_tiktok.ipynb)
